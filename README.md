@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi techs 👋
+Ello everyone, i'm *Henry*, and i'm currentlly studing for systems analysis and development.
+- Kali Linux 🐉
+- Python
+- Looking for help with C++
+- 
 
 <!--
 **HenrySous/HenrySous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
