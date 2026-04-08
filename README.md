@@ -20,7 +20,7 @@ Ello everyone, i'm *Henry*, and i'm currentlly studing for systems analysis and 
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrysous&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryS7ou9&show_icons=true&theme=radical)
 
 ---
 
