@@ -1,5 +1,7 @@
 ## Hi techs 👋
-Ello everyone, i'm *Henry*, and i'm currentlly studing for systems analysis and development.
+
+---
+
 # Olá! 👋 Eu sou um dev apaixonado por tecnologia
 
 💻 Desenvolvedor fullstack | 🚀 Entusiasta de open-source | 🎵 Amante de música
@@ -18,26 +20,6 @@ Ello everyone, i'm *Henry*, and i'm currentlly studing for systems analysis and 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryS7ou9&show_icons=true&theme=radical)
-
----
-
-## 🎵 O que estou escutando no Spotify
-
-![Spotify Currently Playing](https://spotify-github-profile.vercel.app/api/spotify?uid=Henrique_Souza&cover_image=true&theme=default)
-
----
-
-## 🚀 Extras divertidos
-
-![Coding GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-
 > Sempre aprendendo e construindo coisas legais! 😎
 
 ![Preview](https://raw.githubusercontent.com/its-war/its-war/output/snake.svg)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![Python](https://img.shields.io/badge/-Python-blue)
-![React](https://img.shields.io/badge/-React-61DAFB)
