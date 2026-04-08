@@ -3,3 +3,5 @@ Ello everyone, i'm *Henry*, and i'm currentlly studing for systems analysis and 
 - Kali Linux 🐉
 - Python
 - Looking for help with C++
+
+![Preview](https://raw.githubusercontent.com/its-war/its-war/output/snake.svg)
