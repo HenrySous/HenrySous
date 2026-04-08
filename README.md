@@ -20,13 +20,13 @@ Ello everyone, i'm *Henry*, and i'm currentlly studing for systems analysis and 
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenrySous&show_icons=true&theme=radical)
 
 ---
 
 ## 🎵 O que estou escutando no Spotify
 
-![Spotify Currently Playing](https://spotify-github-profile.vercel.app/api/spotify?uid=SEU_USUARIO&cover_image=true&theme=default)
+![Spotify Currently Playing](https://spotify-github-profile.vercel.app/api/spotify?uid=Henrique_Souza&cover_image=true&theme=default)
 
 ---
 
