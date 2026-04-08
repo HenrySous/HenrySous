@@ -1,6 +1,6 @@
 ## Hi techs 👋
 Ello everyone, i'm *Henry*, and i'm currentlly studing for systems analysis and development.
-- ![Arch Linux](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg)
+- ![Arch Linux](https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-blue)
 - Looking for help with C++
 
